@@ -3,6 +3,7 @@
 
 # production
 /dist
+*.js
 
 # misc
 .DS_Store
