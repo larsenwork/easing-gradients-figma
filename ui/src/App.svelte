@@ -1,13 +1,10 @@
-<h1>Hej {name}!</h1>
+<h1>Hello {name}!</h1>
 
 <p>Count: <input type="number" bind:value={count}></p>
 <button on:click={createRectangles}>Create</button>
 <button on:click={cancel}>Cancel</button>
 
 <style>
-  h1 {
-    color: blue;
-  }
 </style>
 
 <script lang="ts">
