@@ -2,6 +2,6 @@
   "name": "Easing Gradients",
   "id": "axFjlJwZsItVWDFIKd4LTN",
   "version": "0.5.0",
-  "html": "ui.html",
+  "html": "ui/public/bundle.html",
   "script": "code.js"
 }
